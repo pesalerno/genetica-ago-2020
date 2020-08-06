@@ -1,0 +1,61 @@
+---
+layout: default
+title: {{ site.name }}
+---
+
+<div id="home">
+  <h1>Universidad Regional Amazónica IKIAM</h1>
+  
+
+	Bienvenidos al curso <b>Seminario de Ecosistemas III</b>, diseñado y dictado por PE Salerno, en el cual llevaremos a cabo un proyecto interdisciplinario 
+	de dos semanas de duración, todo desde nuestros computadores. El proyecto estará enfocado en caracterizar genómicamente
+	a varias especies de vertebrados de las islas Channel de California, EEUU, y evaluará distintos aspectos del paisaje 
+	que pueden estar afectando la diversidad y divergencia genética entre las distintas poblaciones de estos vertebrados
+	endémicos de las islas.<br><br>
+	
+	<br> 
+	
+	En esta página podrán encontrar toda la información acerca del curso, el syllabus, y cualquier otro documento y contenido
+	relevante. <b>Revisela con frecuencia para encontrar nuevas noticias y actualizaciones</b>. <br> <br>
+	
+	
+	En general el curso será autoguiado, es decir, que haciendo uso del cronograma de actividades (abajo) y el sílabo
+	el estudiante podra autoenseñarse la mayor cantidad del contenido. A veces habrán actividades obligatoriamente 
+	presenciales, es decir en videollamada, y el tipo de actividad del día será indicado en el mismo cronograma. 
+	Aca pueden encontrar el <b>sílabo oficial del curso</b>. <br><br>
+	<br>
+	<b>Horas de Atención:</b> para garantizar atención rápida a los alumnos, todos los dias en que tengamos actividades del curso, estare atenta y disponible para
+	preguntas y consultas de 9-10am y de 5-6pm. Si necesitan hacer alguna consulta fuera de esas horas, entiendan que
+	la respuesta no será inmediata. Por principio, no respondere correos entre 8pm y 7am, pero por supuesto ustedes pueden mandar
+	sus preguntas via correo electronico en cualquier momento del dia. 
+
+</div>
+<br>
+<div>
+
+  <h1>Cronograma y Materiales del Curso</h1>
+
+  <table>
+            <tr>
+                <th>Fecha</th>
+                <th>Tema</th>
+                <th>Tipo de Lección</th>
+            </tr>
+	{% assign sorted_posts = site.posts | sort:"order" %}
+    {% for post in sorted_posts %}
+     <tr>
+                 <td> {{ post.time }} </t>
+                 {% if post.material-type == 'ppt' %}
+                 	<td> <a href="{{ post.materials }}">{{ post.title }}</a></td>
+                 {% elsif post.material-type == 'no-link' %}	
+                 	<td> {{ post.title }} </td>
+                 {% else %}
+                 	<td align="left"> <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> </td>
+                 {% endif %}
+                 <td> {{ post.lesson-type }} </td> 
+     </tr>   
+    {% endfor %}
+    </table>
+</div>
+
+
