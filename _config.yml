@@ -1,8 +1,8 @@
 # Setup
-title:        Seminario Ecosistemas | telesemestre 2020
+title:        Genetica | telesemestre 2020
 tagline:       
 baseurl:      
-url:          https://pesalerno.github.io/seminario2020/
+url:          https://pesalerno.github.io/genetica-ago-2020/
 paginate:     1
 theme: jekyll-theme-cayman
 future: true
