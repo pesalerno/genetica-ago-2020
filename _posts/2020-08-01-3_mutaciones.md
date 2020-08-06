@@ -1,14 +1,14 @@
 ---
 layout: default
-order: 10
-title:  "Avances finales del proyecto"
+order: 3
+title:  "Mutaciones y variabilidad"
 date: 2020-06-11
 time:   "11-12 junio"
 categories: main
 instructor: "Pati"
-materials: "https://github.com/pesalerno/seminario2020/edit/master/_posts/2020-06-11-10_proyectos.md"
+materials: ""
 material-type: 
-lesson-type: autoguiada, colaborativa
+lesson-type: presencial y autoguiada
 ---
 
 <a href="https://github.com/pesalerno/seminario2020/blob/master/_posts/2020-06-10-9_geografico2.md"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/seminario2020/"><button>Inicio</button></a>  
