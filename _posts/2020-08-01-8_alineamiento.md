@@ -11,11 +11,11 @@ material-type: ""
 lesson-type: Interactiva, autoguiada
 ---
 
-<a href="https://github.com/pesalerno/seminario2020/blob/master/_posts/2020-06-04-5_filtros2.md"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/seminario2020/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/seminario2020/main/2020/06/08/7_divergencia.html"><button>Siguiente Actividad</button></a>
+<a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/06/08/7_geno-feno-2.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica-ago-2020/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/06/09/9_proyectos-2.html"><button>Siguiente Actividad</button></a>
 
 # Día 6: Estimando diversidad genética
 
-<a href="https://github.com/pesalerno/seminario2020/blob/master/_posts/2020-06-04-5_filtros2.md"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/seminario2020/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/seminario2020/main/2020/06/08/7_divergencia.html"><button>Siguiente Actividad</button></a>
+<a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/06/08/7_geno-feno-2.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica-ago-2020/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/06/09/9_proyectos-2.html"><button>Siguiente Actividad</button></a>
 
 
 
