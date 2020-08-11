@@ -20,7 +20,7 @@ La genética es la base de la vida, la reproducción, el desarrollo, la diversid
 ![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/mosca.png?raw=true)<br>
 
 >---------------------
-> VIDEO: En este [primer video]() aprenderán un poco acerca de la historia y la importancia de la genética como campo de estudio. 
+> VIDEO: En este [primer video](https://www.loom.com/share/a815244aadfb41828e647e0d9a836e31) aprenderán un poco acerca de la historia y la importancia de la genética como campo de estudio. 
 > 
 > ----------------------
 > VIDEO: En este [segundo video](https://www.youtube.com/watch?v=0lZRAShqft0) aprenderán los detalles de la estructura del ADN y ARN para así entender como los *"bloques de la vida"* se unen para conformar el código genético. 
