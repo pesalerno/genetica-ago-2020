@@ -17,7 +17,7 @@ lesson-type: presencial y autoguiada
 
 La genética es la base de la vida, la reproducción, el desarrollo, la diversidad, y la evolución. Por lo que, el estudio de la genética nos ofrece una ventana no sólo para entender nuestros orígenes y conexiones con el resto de la vida en el planeta, sino que además nos ayuda a entender cómo aprovechar los recursos disponibles en los genes y sus productos derivados. 
 
-![]()
+![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/mosca.png?raw=true)<br>
 
 >---------------------
 > VIDEO: En este [primer video]() aprenderán un poco acerca de la historia y la importancia de la genética como campo de estudio. 
