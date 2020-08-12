@@ -15,4 +15,16 @@ lesson-type: presencial, autoguiada, evaluada
 
 # Mutaciones y variabilidad genética
 
+>**PÁGINA EN CONSTRUCCIÓN. FAVOR REVISAR MÁS TARDE**
+
+A pesar de que en el proceso de replicación del ADN hay muchos 'controles de calidad', existen muchísimos errores que se perpetuan de una generación a otra. Pero, algunas mutaciones son malas, y otras son buenas. 
+
+**Son las mutaciones lo que dan cabida a la diversidad y la evolucion** - si la replicación del ADN fuese 100% fiel, todos seguiriamos siendo organismos unicelulares que no han cambiado desde el origen de la vida. Las mutaciones pueden agregar variabilidad genética que puede resultar en una mejor adaptacion al ambiente en que se encuentra el organismo. Pero, las mutaciones también pueden producir errores que resulten en malformaciones genéticas, en cáncer, y en abortos. En la clase de hoy aprenderemos acerca de los tipos de mutaciones y sus diversos efectos. 
+
+>---------------------
+> VIDEO: En [este video](https://www.coursera.org/learn/genetics-evolution/lecture/wOiPv/mitosis-meiosis-and-ploidy-s) el profesor Mohammed Noor nos explica (en ingles) lo que ocurre cuando las mutaciones ocurren durante la mitosis (en células somáticas) o durante la meiosis (en células germinales). 
+> 
+> ----------------------
+> 
+
 <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/08/01/2_herencia.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica-ago-2020/"><button>Inicio</button></a>  <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/08/01/4_herencia-2.html"><button>Siguiente Actividad</button></a>
