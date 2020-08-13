@@ -17,16 +17,12 @@ lesson-type: autoguiada
 
 A pesar de que en el proceso de replicación del ADN hay muchos 'controles de calidad', existen muchísimos errores que se perpetuan de una generación a otra. Pero, algunas mutaciones son malas, y otras son buenas. 
 
-**Son las mutaciones lo que dan cabida a la diversidad y la evolucion** - si la replicación del ADN fuese 100% fiel, todos seguiriamos siendo organismos unicelulares que no han cambiado desde el origen de la vida. Las mutaciones pueden agregar variabilidad genética que puede resultar en una mejor adaptacion al ambiente en que se encuentra el organismo. Pero, las mutaciones también pueden producir errores que resulten en malformaciones genéticas, en cáncer, y en abortos. En la clase de hoy aprenderemos acerca de los tipos de mutaciones y sus diversos efectos. 
+**Son las mutaciones lo que dan cabida a la diversidad y la evolución** - si la replicación del ADN fuese 100% fiel, todos seguiríamos siendo organismos unicelulares que no han cambiado desde el orígen de la vida. Las mutaciones pueden agregar variabilidad genética que puede resultar en una mejor adaptacion al ambiente en que se encuentra el organismo. Pero, las mutaciones también pueden producir errores que resulten en malformaciones genéticas, en cáncer, y en abortos. En la clase de hoy aprenderemos acerca de los tipos de mutaciones y sus diversos efectos. 
 
 ![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/diversidad.png?raw=true)<br>
 
 >---------------------
 > VIDEO: En [este video](https://www.loom.com/share/a422ad196fb34fab847adc93c3d51fcf) de ~45min les explico en detalle la importancia de las mutaciones así como los distintos tipos de mutaciones. 
-> 
->---------------------
-> 
-> VIDEO: En [este video](https://www.coursera.org/learn/genetics-evolution/lecture/wOiPv/mitosis-meiosis-and-ploidy-s) de ~8min el profesor Mohammed Noor nos explica (en ingles) lo que ocurre cuando las mutaciones ocurren durante la mitosis (en células somáticas) o durante la meiosis (en células germinales). 
 > 
 > ----------------------
 > 
