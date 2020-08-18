@@ -13,7 +13,7 @@ lesson-type: autoguiada, evaluada
 
 <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/06/08/7_geno-feno-2.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica-ago-2020/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/06/09/9_proyectos-2.html"><button>Siguiente Actividad</button></a>
 
-# Día 6: Estimando diversidad genética
+#Taller de alineamiento y modelos de mutación
 
 <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/06/08/7_geno-feno-2.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica-ago-2020/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/06/09/9_proyectos-2.html"><button>Siguiente Actividad</button></a>
 
