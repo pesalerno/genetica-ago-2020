@@ -20,7 +20,7 @@ lesson-type: autoguiada, evaluada
 
 > -------------------
 > 
-> **VIERNES 9-10:30am** | Sesión Sincrónica para discutir el contenido de las dos axtividades anteriores (*'Genotipo a Fenotipo'*) y para discutir cómo funcionará el taller de alineamiento. 
+> **VIERNES 9-10:30am** | Sesión Sincrónica para discutir el contenido de las dos actividades anteriores (*'Genotipo a Fenotipo'*) y para discutir cómo funcionará el taller de alineamiento. 
 > 
 > ------------------------
  
