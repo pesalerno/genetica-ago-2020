@@ -45,7 +45,7 @@ En este taller, aprenderemos lo básico acerca de los marcadores genéticos y su
 Primero, escojan su grupo de estudio, el cual debe ser relativamente "pequeño", respecto al árbol de la vida: un género, una especie, como mucho una familia. De ese grupo taxonómico que escogieron, deben bajar un total de 10 secuencias del marcador `16S rRNA`, un fragmento ribosomal codificado por la mitocondria, y el cual es comúnmente secuenciado para una gran variedad de eucariotas. 
 
 
-Segundo, vayan a la [página de NCBI](https://www.ncbi.nlm.nih.gov/nuccore/) donde pueden acceder a las secuencias genéticas disponibles públicamente. Allí, deben hacer una búsqueda, en el caso mío, yo busqué `16S Pseudacris`, el cual es un género de ranas arboríolas de Norteamérica. 
+Segundo, vayan a la [página de NCBI](https://www.ncbi.nlm.nih.gov/nuccore/) donde pueden acceder a las secuencias genéticas disponibles públicamente. Allí, deben hacer una búsqueda, en el caso mío, yo busqué `16S Pseudacris`, el cual es un género de ranas arborícolas de Norteamérica. 
 
 ![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/ncbi.png?raw=true)<br>
 
@@ -61,14 +61,14 @@ Entonces, intenten escoger casi todos que únicamente contengan 16s, pero si tie
 >
 
 
-Regresando a la búsqueda que yo hice, de `Pseudacris`, una vez que sa sé cuales secuencias quiero bajar, las "escojo" haciendo "click" en la selección a TODAS las secuencias a la vez, y escojo `Send To>Complete Record>File>Fasta>Create File` tal como se observa en la foto de abajo:
+Regresando a la búsqueda que yo hice, de `Pseudacris`, una vez que ya sé cuales secuencias quiero bajar, las "escojo" haciendo "click" en la selección a TODAS las secuencias a la vez, y escojo `Send To>Complete Record>File>Fasta>Create File` tal como se observa en la foto de abajo:
 
 ![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/pseudacris-download.png?raw=true)<br>
 
 
 ## Alineando y visualizando nuestras secuencias
 
-Luego, ese archivo que bajen lo agregan (hacen "upload") directamente a la página del programa de alineamiento [`Clustal Omega`](https://www.ebi.ac.uk/Tools/msa/clustalo/), el cual va a generar un alineamiento de nuestras secuencias. Sólo hay que especificar que el "input" son decuencias de `DNA` y que el "output" es en el formato `NEXUS`.  
+Luego, ese archivo que bajen lo agregan (hacen "upload") directamente a la página del programa de alineamiento [Clustal Omega](https://www.ebi.ac.uk/Tools/msa/clustalo/), el cual va a generar un alineamiento de nuestras secuencias. Sólo hay que especificar que el "input" son decuencias de `DNA` y que el "output" es en el formato `NEXUS`.  
 
 ![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/clustal-input.png?raw=true)<br>
 
@@ -76,6 +76,8 @@ De ahi, puede hacer "download" del archivo, donde podrán ver el alineamiento "c
 
 
 ![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/clustal-output.png?raw=true)<br>
+
+>**NOTA**: esta "descarga" sóplo va a resultar en abrirles una página donde pueden copiar/pegar el documento. Ahora, esto NO LO DEBEN PEGAR en un editor de texto "normal" como `Word`, ya que le agregará demasiados elementos que van a "corromper" al archivo. Entonces, si no tienen un editor de texto "simple" en su computador, les recomiendo que se bajen el programa [jEdit](http://www.jedit.org/), el cual es un editor de texto para PC/Windows. Alli pueden abrir un archivo en blanco, copiar/pegar el texto de Clustal Omega, y guardar el archivo como: `alineamiento.nex` (la terminación del nombre del archivo es muy importante para el paso siguiente!).
 
 
 Finalmente, en el programa [Mesquite](https://www.mesquiteproject.org/Installation.html), que pueden descargar para cualquier tipo de computador en el enlace anterior, podemos vizualizar nuestro alineamiento de modo mucho mas fácil, así como editarlo (por ejemplo para eliminar las bases en exceso que sólo están presentes en algunos individuos).
