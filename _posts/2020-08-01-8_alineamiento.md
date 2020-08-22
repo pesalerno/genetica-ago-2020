@@ -34,7 +34,7 @@ En este taller, aprenderemos lo básico acerca de los marcadores genéticos y su
 
 >--------------------------
 >
->**VIDEO:** En [este video]() de ~45min les doy una introducción a los marcadores genéticos y sus usos.
+>**VIDEO:** En [este video](https://www.loom.com/share/38d12458cff845ca8fc47d7ab8302e1a) de ~20min les doy una introducción a los marcadores genéticos y sus usos.
 >
 >--------------------------
 >
