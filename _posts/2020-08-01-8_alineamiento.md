@@ -16,8 +16,6 @@ lesson-type: autoguiada, evaluada
 # Taller de alineamiento 
 
 
->**PÁGINA EN CONSTRUCCIÓN. FAVOR REVISAR MÁS TARDE**
-
 
 
 > -------------------
@@ -31,7 +29,7 @@ Los alineamientos de genes sirven para muchas cosas: nos ayudan a reconstruir hi
 
 ![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/rDNA.png?raw=true)<br>
 
-En este taller, aprenderemos lo básico acerca de los marcadores genéticos y su historia, y de cómo los marcadores ribosomales - como el 16s - son usados para estudiar la mayor cantidad de vida en el planeta. Entenderemos lo díficil que es el concepto de "homología" con genética, despues de todo teniendo sólo cuatro bases, la probabilidad es altísima de que dos `A` sean iguales debido a homología o a convergencia, lo cual se hace particularmente difícil dada la estructura del `rDNA`. 
+En este taller, aprenderemos lo básico acerca de los marcadores genéticos y su historia, y de cómo los marcadores ribosomales - como el 16s - son usados para estudiar la mayor cantidad de vida en el planeta. Entenderemos lo díficil que es el concepto de "homología" con genética, despues de todo teniendo sólo cuatro bases, la probabilidad es altísima de que dos `A` sean iguales debido a homología o a convergencia, lo cual se hace particularmente difícil dada la estructura del `rRNA`. 
 
 
 >--------------------------
@@ -57,14 +55,18 @@ Cuando salen los resultados, ven que hay un montón!! ademas de eso, noten los n
 
 Entonces, intenten escoger casi todos que únicamente contengan 16s, pero si tienen alguno que tenga más genes (tanto `downstream` como `upstream`), entonces lo pueden agregar. Básicamente, lo que ocurre es que a veces la gente amplifica y secuencia segmentos mitocondriales bastante grandes, por lo que verán que los nombres de las secuencias pueden contener genes adyacentes. 
 
-Para referencia, así se ve el genoma mitocondrial de los eucariotas (es decir, de ustedes): 
+>Para referencia, así se ve el genoma mitocondrial de los eucariotas (es decir, de ustedes): 
+>
+>![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/mtDNA-genome.png?raw=true)<br>
+>
 
-![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/mtDNA-genome.png?raw=true)<br>
 
 Regresando a la búsqueda que yo hice, de `Pseudacris`, una vez que sa sé cuales secuencias quiero bajar, las "escojo" haciendo "click" en la selección a TODAS las secuencias a la vez, y escojo `Send To>Complete Record>File>Fasta>Create File` tal como se observa en la foto de abajo:
 
 ![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/pseudacris-download.png?raw=true)<br>
 
+
+## Alineando y visualizando nuestras secuencias
 
 Luego, ese archivo que bajen lo agregan (hacen "upload") directamente a la página del programa de alineamiento [`Clustal Omega`](https://www.ebi.ac.uk/Tools/msa/clustalo/), el cual va a generar un alineamiento de nuestras secuencias. Sólo hay que especificar que el "input" son decuencias de `DNA` y que el "output" es en el formato `NEXUS`.  
 
@@ -82,7 +84,10 @@ Finalmente, en el programa [Mesquite](https://www.mesquiteproject.org/Installati
 
 ![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/mesquite-align.png?raw=true)<br>
 
+## Editando y entendiendo nuestro alineamiento
 
+
+>**PÁGINA EN CONSTRUCCIÓN. FAVOR REVISAR MÁS TARDE**
 
  
  
