@@ -34,9 +34,14 @@ En este taller, aprenderemos lo básico acerca de los marcadores genéticos y su
 
 >--------------------------
 >
->**VIDEO:** En [este video]() de ~45min les doy una introducción a los marcadores genéticos y a la secuenciación Sanger.  
+>**VIDEO:** En [este video]() de ~45min les doy una introducción a los marcadores genéticos y sus usos.
 >
 >--------------------------
+>
+>**VIDEO:** En [este video](https://www.youtube.com/watch?v=wdS3j0TgbjM) de ~5min podrán entender todos los pasos y los detalles de la secuenciación Sanger, técnica que revolucionó el estudio de la genética desde hace ya más de cuatro décadas y que sigue siendo usada para generar la mayor cantidad de secuencias del mundo. 
+>
+>--------------------------
+
 
 
 ## Comenzando con bajar nuestras secuencias
@@ -77,7 +82,7 @@ De ahi, puede hacer "download" del archivo, donde podrán ver el alineamiento "c
 
 ![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/clustal-output.png?raw=true)<br>
 
->**NOTA**: esta "descarga" sóplo va a resultar en abrirles una página donde pueden copiar/pegar el documento. Ahora, esto NO LO DEBEN PEGAR en un editor de texto "normal" como `Word`, ya que le agregará demasiados elementos que van a "corromper" al archivo. Entonces, si no tienen un editor de texto "simple" en su computador, les recomiendo que se bajen el programa [jEdit](http://www.jedit.org/), el cual es un editor de texto para PC/Windows. Alli pueden abrir un archivo en blanco, copiar/pegar el texto de Clustal Omega, y guardar el archivo como: `alineamiento.nex` (la terminación del nombre del archivo es muy importante para el paso siguiente!).
+>**NOTA**: esta "descarga" sólo va a resultar en abrirles una página donde pueden copiar/pegar el documento en su computador. Ahora, esto NO LO DEBEN PEGAR en un editor de texto "normal" como `Word`, ya que le agregará demasiados elementos que van a "corromper" al archivo. Entonces, si no tienen un editor de texto "simple" en su computador, les recomiendo que se bajen el programa [jEdit](http://www.jedit.org/), el cual es un editor de texto para PC/Windows. Alli pueden abrir un archivo en blanco, copiar/pegar el texto de Clustal Omega, y guardar el archivo como: `alineamiento.nex` (*la terminación del nombre del archivo es muy importante para el paso siguiente!*).
 
 
 Finalmente, en el programa [Mesquite](https://www.mesquiteproject.org/Installation.html), que pueden descargar para cualquier tipo de computador en el enlace anterior, podemos vizualizar nuestro alineamiento de modo mucho mas fácil, así como editarlo (por ejemplo para eliminar las bases en exceso que sólo están presentes en algunos individuos).
