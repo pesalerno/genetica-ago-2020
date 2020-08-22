@@ -25,7 +25,7 @@ lesson-type: autoguiada, evaluada
 > ------------------------ 
  
  
-Los alineamientos de genes sirven para muchas cosas: nos ayudan a reconstruir historias evolutivas de grupos taxonómicos, nos permiten identificar "variantes" clínicos para identificar alelos responsables de ciertas patologías/cánceres, nos permiten describir poblaciones de animales en peligro de extinción y su capacidad adaptativa, entre muchas otras apliaciones. 
+Los alineamientos de genes sirven para muchas cosas: nos ayudan a reconstruir historias evolutivas de grupos taxonómicos, nos permiten identificar "variantes" clínicos para identificar alelos responsables de ciertas patologías/cánceres, nos permiten describir poblaciones de animales en peligro de extinción y su capacidad adaptativa, entre muchas otras aplicaciones. 
 
 ![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/rDNA.png?raw=true)<br>
 
@@ -94,7 +94,7 @@ Finalmente, en el programa [Mesquite](https://www.mesquiteproject.org/Installati
 ## Editando y entendiendo nuestro alineamiento
 
 
->**PÁGINA EN CONSTRUCCIÓN. FAVOR REVISAR MÁS TARDE**
+>**PÁGINA EN CONSTRUCCIÓN. FAVOR REVISAR DOMINGO 10am**
 
  
  
