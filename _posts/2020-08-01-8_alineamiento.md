@@ -85,7 +85,7 @@ De ahi, puede hacer "download" del archivo, donde podrán ver el alineamiento "c
 >**NOTA**: esta "descarga" sólo va a resultar en abrirles una página donde pueden copiar/pegar el documento en su computador. Ahora, esto NO LO DEBEN PEGAR en un editor de texto "normal" como `Word`, ya que le agregará demasiados elementos que van a "corromper" al archivo. Entonces, si no tienen un editor de texto "simple" en su computador, les recomiendo que se bajen el programa [jEdit](http://www.jedit.org/), el cual es un editor de texto para PC/Windows. Alli pueden abrir un archivo en blanco, copiar/pegar el texto de Clustal Omega, y guardar el archivo como: `alineamiento.nex` (*la terminación del nombre del archivo es muy importante para el paso siguiente!*).
 
 
-Finalmente, en el programa [Mesquite](https://www.mesquiteproject.org/Installation.html), que pueden descargar para cualquier tipo de computador en el enlace anterior, podemos vizualizar nuestro alineamiento de modo mucho mas fácil, así como editarlo (por ejemplo para eliminar las bases en exceso que sólo están presentes en algunos individuos).
+Finalmente, en el programa [Mesquite](https://www.mesquiteproject.org/Installation.html), que pueden descargar para cualquier tipo de computador en el enlace anterior, podemos vizualizar nuestro alineamiento de modo mucho mas fácil, así como editarlo (por ejemplo para eliminar las bases en exceso que sólo están presentes en algunos individuos). Para abrir el archivo simplemente hagan "Open File" y así abren el archivo de `nexus` que guardaron. 
 
 
 
