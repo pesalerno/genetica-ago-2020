@@ -93,10 +93,34 @@ Finalmente, en el programa [Mesquite](https://www.mesquiteproject.org/Installati
 
 ## Editando y entendiendo nuestro alineamiento
 
+Ahora, hablemos un poco más del alineamiento. Los alineamientos son básicamente inferencias de homología de secuencias de nucleótidos - es decir, la única forma de hacer uso del código genético para hacer cualquier tipo de inferencia histórica/ecológica/clínica es "alinear" los nucleótidos/secuencias entre organismos de tal modo que esos nucleótidos "compartan una historia evolutiva". 
 
->**PÁGINA EN CONSTRUCCIÓN. FAVOR REVISAR DOMINGO 10am**
+![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/homology.png?raw=true)<br>
 
- 
+
+En el alineamiento de arriba, estamos infiriendo que esas secuencias de nucleótidos comparten un ancestro común a nivel heredado e histórico, y que aún están siendo regidos por las mismas fuerzas evolutivas, es decir, que son **genes ortólogos**. 
+
+![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/align-2.png?raw=true)<br>
+
+
+
+> Aca es donde entran los conceptos de **genes ortólogos** (genes que comparten historia evolutiva porque tienen la misma funcion/uso entre una especie y otra) y **genes parálogos** (genes que comparten historia evolutiva debido a una duplicación, pero luego de la duplicación sus historias evolutivas se vuelven "independientes"). Ambas son homologías, pero los alineamientos deben ser hechos en grupos de genes ortólogos y no parálogos. 
+
+> **PREGUNTA:** Por qué creen que es más difícil establecer homología en bases de nucleótidos de lo que puede ser en caracteres fenotípicos? 
+
+
+Entonces, ahora debemos "limpiar" un poco el alineamiento. En primera instancia, ***debemos eliminar las bases que tienen demasiados datos faltantes***. En mi caso, se observa que el individuo `AY291110.1` empieza muchisimo antes en su secuencia que los otros tres, por lo que toda esa región del gen no tiene ningún tipo de información, y lo mejor - para eficiencia computacional y tambien para no sesgar el análisis - es eliminar TODAS las bases (o "caracteres") hasta la número `2054` que es donde empiezan el resto de las secuencias. 
+
+Segundo, veamos las regiones de "gaps" o vacíos en el alineamiento, e investiguemos un poco acerca de ellos. Los gaps en los genes ribosomales siempre son regiones de "loops" en su conformación. Debemos intentar, dentro de lo posible, de arreglar un poco las regiones hipervariables de "loops" para que tengan sentido las inferencias de homologías. Para ello, y para un poco de detalles de las herramientas de edición de alineamiento de MEsquite, vean el video de abajo. 
+
+>--------------------------
+>
+>**VIDEO:** En [este video](https://www.loom.com/share/86bcea7ed032428b99a1b6bfbd9eecff) de ~11min les doy una introducción a la edición de alineamientos de marcadores ribosomales usando Mesquite. 
+>
+>--------------------------
+
+
+
  
 <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/06/08/7_geno-feno-2.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica-ago-2020/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/06/09/9_proyectos-2.html"><button>Siguiente Actividad</button></a>
 
