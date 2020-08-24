@@ -1,7 +1,7 @@
 ---
 layout: default
 order: 8
-title:  "Taller alineamiento y modelos de mutacion"
+title:  "Taller de alineamiento"
 date: 2020-08-01
 time:   "viernes 21 Ago"
 categories: main
@@ -100,16 +100,17 @@ Ahora, hablemos un poco más del alineamiento. Los alineamientos son básicament
 
 En el alineamiento de arriba, estamos infiriendo que esas secuencias de nucleótidos comparten un ancestro común a nivel heredado e histórico, y que aún están siendo regidos por las mismas fuerzas evolutivas, es decir, que son **genes ortólogos**. 
 
-![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/align-2.png?raw=true)<br>
 
 
-
-> Aca es donde entran los conceptos de **genes ortólogos** (genes que comparten historia evolutiva porque tienen la misma funcion/uso entre una especie y otra) y **genes parálogos** (genes que comparten historia evolutiva debido a una duplicación, pero luego de la duplicación sus historias evolutivas se vuelven "independientes"). Ambas son homologías, pero los alineamientos deben ser hechos en grupos de genes ortólogos y no parálogos. 
+> Acá es donde entran los conceptos de **genes ortólogos** (genes que comparten historia evolutiva porque tienen la misma funcion/uso entre una especie y otra) y **genes parálogos** (genes que comparten historia evolutiva debido a una duplicación, pero luego de la duplicación sus historias evolutivas se vuelven "independientes"). Ambas son homologías, pero los alineamientos deben ser hechos en grupos de genes ortólogos y no parálogos. 
 
 > **PREGUNTA:** Por qué creen que es más difícil establecer homología en bases de nucleótidos de lo que puede ser en caracteres fenotípicos? 
 
 
 Entonces, ahora debemos "limpiar" un poco el alineamiento. En primera instancia, ***debemos eliminar las bases que tienen demasiados datos faltantes***. En mi caso, se observa que el individuo `AY291110.1` empieza muchisimo antes en su secuencia que los otros tres, por lo que toda esa región del gen no tiene ningún tipo de información, y lo mejor - para eficiencia computacional y tambien para no sesgar el análisis - es eliminar TODAS las bases (o "caracteres") hasta la número `2054` que es donde empiezan el resto de las secuencias. 
+
+![](https://github.com/pesalerno/genetica-ago-2020/blob/master/files/align-2.png?raw=true)<br>
+
 
 Segundo, veamos las regiones de "gaps" o vacíos en el alineamiento, e investiguemos un poco acerca de ellos. Los gaps en los genes ribosomales siempre son regiones de "loops" en su conformación. Debemos intentar, dentro de lo posible, de arreglar un poco las regiones hipervariables de "loops" para que tengan sentido las inferencias de homologías. Para ello, y para un poco de detalles de las herramientas de edición de alineamiento de MEsquite, vean el video de abajo. 
 
