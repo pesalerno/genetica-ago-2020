@@ -1,0 +1,19 @@
+ 
+  > 
+ > **Fecha de entrega:** JUEVES 11 junio 11:59pm 
+ > 
+ > **FORMATO DE ENTREGA:** El proyecto debe ser entregado individualmente en formato `.md` o en `.pdf` (casi todos los editores MarkDown permiten exportar pdf). Copien y peguen el codigo Markdown de las proximas lineas para incluir en la entrega de su proyecto:  
+
+
+ 
+ --------------------
+ > 
+ > **AUTOR(es) DEL PROYECTO:** 
+ > 
+ > **TITULO DEL PROYECTO:**  
+ > 
+ >  **Objetivos resumidos del proyecto:** (maximo 60 palabras)
+ > 
+ > **Metodologia de colecta de datos/observaciones del proyecto:** (maximo 60 palabras). 
+
+ ------------------------
